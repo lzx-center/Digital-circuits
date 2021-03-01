@@ -1,2 +1,2 @@
-# Digital-circuits
-Digital circuits class materials of CUC
+# 数字电路
+中国传媒大学课程《数字电路》课件、作业、复习资料以及笔记
